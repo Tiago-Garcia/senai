@@ -15,4 +15,8 @@ public class Calculos {
         return a+b;
     }
     
+    public int soma(int a,int b){
+        return a + b;
+    }
+    
 }
