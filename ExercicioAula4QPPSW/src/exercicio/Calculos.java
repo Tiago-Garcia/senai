@@ -11,4 +11,16 @@ package exercicio;
  */
 public class Calculos {
     
+    public double Soma(double a, double b){
+        return a+b;
+    }
+    
+    //Refatoris
+    //public int soma(int a,int b){
+    //    return a + b;
+    //}
+    public double multiplicar(double a, double b){
+        return a*b;
+    }
+    
 }
