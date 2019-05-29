@@ -11,4 +11,8 @@ package exercicio;
  */
 public class Calculos {
     
+    public double Soma(double a, double b){
+        return a+b;
+    }
+    
 }
